@@ -5,4 +5,7 @@ amending test.txt
 
 Experiencing with tags...
 
+
 Messing up on the master. BOOM. Thought I would add some text here to start with.
+
+Adding some stuff in order to perform a rebase and see how it goes...
