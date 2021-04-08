@@ -1,4 +1,5 @@
 Trying again with just removing from Git scope..
 Let's add some stuff here instead...
 
-Let's work it out mate :)
+Let's work it out mate :).
+.practicing rebase again.
